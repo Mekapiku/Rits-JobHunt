@@ -2,8 +2,8 @@
 // @name          Rits Job Hunt
 // @namespace     http://mekapiku.info
 // @description   CampusWebの面倒な表示から解き放たれよ
-// @include       http://campusweb.ritsumei.ac.jp/campus/JCIFEVT01.do?*
-// @include       https://campusweb.ritsumei.ac.jp/campus/JCIFEVT01.do?*
+// @include       http://campusweb.ritsumei.ac.jp/campus/*
+// @include       https://campusweb.ritsumei.ac.jp/campus/*
 // ==/UserScript==
 
 (function() {

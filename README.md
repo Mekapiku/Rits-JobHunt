@@ -1,5 +1,5 @@
 # Rits-JobHunt
-** CampusWebの面倒な表示から解き放たれよ **
+**CampusWebの面倒な表示から解き放たれよ**
 
 CampusWebの「進路・就活情報」にある「イベントカレンダー」に
 Googleカレンダーへのエクスポート機能を追加するGreasemonkeyスクリプトです．
